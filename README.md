@@ -120,7 +120,3 @@ Chaque write-up suit une structure commune :
 - **Différencier les familles de vulnérabilités** : séparer une faille de logique métier d'une injection, d'un défaut d'authentification ou d'une fuite d'information.
 - **Documenter une preuve technique** : produire des étapes reproductibles et des captures lisibles plutôt qu'une simple description théorique.
 - **Travailler dans un cadre contrôlé** : utiliser une application volontairement vulnérable en local afin de pratiquer sans exposer de système tiers.
-
-## Avertissement
-
-Ce projet est exclusivement pédagogique. OWASP Juice Shop est volontairement vulnérable : il ne doit pas être exposé sur Internet ni utilisé pour tester une application sans autorisation explicite.
